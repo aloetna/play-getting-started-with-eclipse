@@ -1,0 +1,15 @@
+.env
+project/project
+project/target
+target
+tmp
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/RUNNING_PID
+hk-debug
+/bin/
+.cache-main
